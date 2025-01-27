@@ -1,0 +1,5 @@
+x = int(input("Introdueix el nombre a calcular: "))
+aquadrada = x**(1/2)
+acubica = x**(1/3)
+print(f"Arrel quadrada: {aquadrada}")
+print(f"Arrel cúbica: {acubica}")
